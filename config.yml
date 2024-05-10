@@ -11,21 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 1 
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 1
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
+          weight: 2
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
