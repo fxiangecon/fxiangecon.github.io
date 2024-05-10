@@ -17,8 +17,8 @@ menu:
         - name: Teaching
           url: /teaching/
           weight: 2
-        # - name: CV
-        #   url:
+        - name: CV
+          url: "/cv_xiang_apr2024.pdf"
 
 params:
     description: "Welcome to my personal website!"
