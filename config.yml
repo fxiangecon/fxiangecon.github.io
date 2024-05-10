@@ -63,7 +63,7 @@ params:
            
     socialIcons:
         - name: Email
-          url: "fxiang8@uwo.ca"
+          url: "mailto:fxiang8@uwo.ca"
         # - name: CV
         #   url: cv.pdf
         # - name: Google Scholar
