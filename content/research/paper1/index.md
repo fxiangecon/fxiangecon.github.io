@@ -1,7 +1,7 @@
 ---
 title: "Wholesale Banking Panics and Monetary Policy" 
 date: 2024-04-13
-lastmod: 2024-05-10
+# lastmod: 2024-05-10
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Fengfan Xiang"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
@@ -10,9 +10,9 @@ cover:
     image: "key_features.png"
     alt: "Key Features of the Model"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Oleic Science"
 
 ---
 

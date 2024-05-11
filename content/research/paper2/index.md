@@ -2,8 +2,8 @@
 title: "Adverse Selection, Private Collateral Provision, and
 Government Intervention" 
 date: 2023-09-05
-lastmod: 2024-05-08
-tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
+# lastmod: 2024-05-08
+# tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
 author: ["Fengfan Xiang"]
 description: "Second Year Paper" 
 summary: "Second Year Paper" 
@@ -11,9 +11,9 @@ cover:
     # image: "paper2.png"
     # alt: "Dimensions of a sausage dog"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Canine Science"
 
 ---
 
