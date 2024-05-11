@@ -1,11 +1,11 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2003-10-15
-lastmod: 2024-05-08
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Wholesale Banking Panics and Monetary Policy" 
+date: 2024-04-13
+lastmod: 2024-05-11
+# tags: ["philology","oleic science","history of oil","Mediterranean world"]
+author: ["Fengfan Xiang"]
+# description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
+summary: "First draft, very preliminary" 
 cover:
     image: "paper1.png"
     alt: "Some Uses For Olive Oil"
@@ -20,23 +20,22 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/hugo-website)
++ [Paper](financial_stability_paper.pdf)
++ [Slides](financial_stability_slides.pdf)
 
----
+<!-- ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Key feature of the model
 
-![](paper1.png)
+![](key_features.pdf)
 
----
+<!-- ---
 
 ##### Citation
 
@@ -51,12 +50,5 @@ journal = {Journal of Oleic Science},
 volume = {34),
 number = {1},
 pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}} -->
 ```
-
----
-
-##### Related material
-
-+ [Slides for long presentation](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
