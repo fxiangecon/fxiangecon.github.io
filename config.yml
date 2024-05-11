@@ -24,7 +24,7 @@ params:
     description: "Welcome to my personal website!"
     author: Fengfan Xiang
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "May 2024"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
