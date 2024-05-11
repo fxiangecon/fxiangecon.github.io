@@ -1,7 +1,18 @@
 ---
-title: "Courses"
-description: "Courses on philology by Professor Dr von Igelfeld and esteemed colleagues. For undergraduate and graduate students."
+title: "Teaching"
+description: "My Teaching Experiences"
 ---
 
-# Course 1
-- Teaching assistant
+## Teaching Assistant at the University of Western Ontario
+
+### PhD Level
+- Review Course for Economist (Econ 9600), Summer 2021, Summer 2022, Summer 2023
+- Microeconomics I (Econ 9602) & Microeconomics II (Econ 9602), Fall 2021 & Winter 2022
+    won the Graduate Teaching Assistant of the Year for 2021-2022
+- Macroeconomics I (Econ 9603) & Macroeconomics II (Econ 9604), Fall 2022 & Winter 2023
+    won the Graduate Teaching Assistant of the Year for 2022-2023
+- Economic Mathematics (Econ 9607), Fall 2023
+    won the Graduate Teaching Assistant of the Year for 2023-2024
+
+### Master Level
+- Macroeconomics Theory for Finance (Econ 9503), Winter 2024
