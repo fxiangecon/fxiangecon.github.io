@@ -50,5 +50,6 @@ journal = {Journal of Oleic Science},
 volume = {34),
 number = {1},
 pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}} -->
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ```
+ -->
