@@ -7,12 +7,12 @@ author: ["Fengfan Xiang"]
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
 summary: "First draft, very preliminary" 
 cover:
-    image: "paper1.png"
+    image: "key_features.png"
     alt: "Some Uses For Olive Oil"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Oleic Science"
 
 ---
 
@@ -33,7 +33,7 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Key feature of the model
 
-![](key_features.pdf)
+![](key_features.png)
 
 <!-- ---
 
