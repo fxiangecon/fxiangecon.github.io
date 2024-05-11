@@ -1,14 +1,15 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 1998-01-01
+title: "Adverse Selection, Private Collateral Provision, and
+Government Intervention" 
+date: 2023-09-05
 lastmod: 2024-05-08
 tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 1998." 
-summary: "his paper studies the pulmonary efficiency of sausage dogs." 
+author: ["Fengfan Xiang"]
+description: "Second Year Paper" 
+summary: "Second Year Paper" 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    # image: "paper2.png"
+    # alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
@@ -20,23 +21,22 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/hugo-website)
++ [Paper](adverse_selection_paper.pdf)
++ [Slides](adverse_selection_slides.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A model is constructed to study the impact of adverse selection in financial markets on the efficiency of other markets. 
+Private collateral provision matters for the transmission across markets. 
+Adverse selection hinders collateral provision in the loan market, resulting in inefficiency in the goods market as collateral is essential to
+secure credit transactions. 
+Without further intervention, when the adverse selection problem is severe, the accommodative government policy may shut down the loan
+market, even if it is feasible. 
+A novel loan subsidy program is proposed, which works by addressing the adverse selection problem banks face.
 
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
-
----
+<!-- ---
 
 ##### Citation
 
@@ -52,11 +52,4 @@ volume = {43},
 number = {2},
 pages = {89--109},
 url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
+``` -->
