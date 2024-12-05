@@ -1,14 +1,15 @@
 ---
-title: "Wholesale Banking Panics and Monetary Policy" 
-date: 2024-04-13
-lastmod: 2024-05-10
+title: "Should We Use the Central Bank Balance Sheet to
+Control Flight-to-Safety?" 
+date: 2024-12-05
+lastmod: 2024-12-05
 author: ["Fengfan Xiang"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "First draft, very preliminary" 
-cover:
-    image: "key_features.png"
-    alt: "Key Features of the Model"
-    relative: false
+# description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
+summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades, raising financial stability concerns. I study how central bank balance sheet expansions endogenously determine the severity of these panics and their implications for economic welfare, highlighting the role of the shifts in asset demand in response to these expansions. While central bank balance sheet expansions mitigate wholesale banking panics, they may reduce welfare by lowering asset returns and limiting their usefulness in transactions. Expanding the reach of interest-bearing central bank liabilities to wholesale banks - like the Fed's overnight reverse repurchase agreements - can mitigate panics while improving welfare." 
+# cover:
+#     image: "key_features.png"
+#     alt: "Key Features of the Model"
+#     relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Oleic Science"
@@ -19,20 +20,15 @@ cover:
 
 ##### Download
 
-+ [Paper](financial_stability_paper.pdf)
-+ [Slides](financial_stability_slides.pdf)
-
-<!-- ---
-
-##### Abstract
-
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
++ [Paper](paper_flight-to-safety.pdf)
+<!-- + [Slides](financial_stability_slides.pdf) -->
 
 ---
 
-##### Key feature of the model
+##### Abstract
 
-![](key_features.png)
+Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. The central bank manages its balance sheet actively. Asset returns react endogenously to the central bank’s actions, influencing the usefulness of assets in transactions and, therefore, depositors’ demand for safe assets and bank deposits. I show that a central bank balance sheet expansion mitigates wholesale banking panics, but doing so may reduce welfare because it lowers asset returns, limiting the usefulness of assets in transactions. However, the central bank can mitigate wholesale banking panics and improve welfare by expanding the reach of its interest-bearing liabilities to wholesale banks, as in the case of the Fed’s overnight reserves repurchase agreements.
+
 
 <!-- ---
 
