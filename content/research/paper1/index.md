@@ -5,7 +5,10 @@ date: 2024-12-05
 lastmod: 2024-12-05
 author: ["Fengfan Xiang"]
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades, raising financial stability concerns. I study how central bank balance sheet expansions endogenously determine the severity of these panics and their implications for economic welfare, highlighting the role of the shifts in asset demand in response to these expansions. While central bank balance sheet expansions mitigate wholesale banking panics, they may reduce welfare by lowering asset returns and limiting their usefulness in transactions. Expanding the reach of interest-bearing central bank liabilities to wholesale banks - like the Fed's overnight reverse repurchase agreements - can mitigate panics while improving welfare." 
+summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades. 
+I study how central bank balance sheet expansions determine the severity of these panics and their implications for economic welfare, highlighting the role of the shifts in asset demand. 
+While central bank balance sheet expansions mitigate panics, they may reduce welfare. 
+Expanding the reach of interest-bearing central bank liabilities to wholesale banks can mitigate panics while improving welfare." 
 # cover:
 #     image: "key_features.png"
 #     alt: "Key Features of the Model"

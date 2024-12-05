@@ -4,12 +4,15 @@ Government Intervention"
 date: 2023-09-05
 lastmod: 2024-05-08
 author: ["Fengfan Xiang"]
-description: "Second Year Paper" 
-summary: "Second Year Paper" 
+# description: "Second Year Paper" 
+summary: "Private collateral provision matters for the transmission across markets. 
+Adverse selection hinders collateral provision in the loan market, resulting in inefficiency in the goods market as collateral is essential to secure credit transactions. 
+The optimal interest rate policy may shut down the loan market entirely. 
+A novel loan subsidy program is proposed to address banks' adverse selection problem." 
 cover:
     # image: "paper2.png"
     # alt: "Dimensions of a sausage dog"
-    relative: false
+    # relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Canine Science"
