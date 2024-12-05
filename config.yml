@@ -50,7 +50,7 @@ params:
           \n <br> &nbsp; \n\n
           My research interests include financial economics, macroeconomics and monetary economics."
           imageUrl: "photo.jpg"
-          imageWidth: 160
+          imageWidth:  160
           imageHeight: 180
           imageTitle: Fengfan Xiang
           buttons:
@@ -64,8 +64,8 @@ params:
     socialIcons:
         - name: Email
           url: "mailto:fxiang8@uwo.ca"
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: "/cv_xiang_apr2024.pdf"
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: Location
