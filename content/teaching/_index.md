@@ -4,7 +4,8 @@ description: "My Teaching Experiences"
 ---
 
 ### Instructor at the University of Western Ontario
-- Intermediate Macroeconomic Theory and Policy I, Fall 2024
+- Intermediate Macroeconomic Theory and Policy I, Fall 2024 
++ [Course Outline](2024Fall-UWO-EC2151-Course-Outline.pdf)
 
 ---
 
@@ -20,8 +21,8 @@ description: "My Teaching Experiences"
     - voted for the ***Graduate Teaching Assistant of the Year***
 
 #### **Master Level**
-- Macroeconomics Theory for Finance, 2024
+- Macroeconomics Theory for Finance, Winter 2024
 
 #### **Undergraduate Level**
-- Advanced Macroeconomics I, 2024
+- Advanced Macroeconomics I, Fall 2024
 
