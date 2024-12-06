@@ -50,9 +50,9 @@ params:
     profileMode:
           enabled: true
           title: Fengfan Xiang
-          subtitle: "I am a Ph.D. Candidate at the [University of Western Ontario, Department of Economics.](https://economics.uwo.ca)
+          subtitle: "I am a Ph.D. Candidate in the [Department of Economics, University of Western Ontario.](https://economics.uwo.ca)
           \n <br> &nbsp; \n\n
-          My research interests include financial economics, macroeconomics and monetary economics."
+          My research interests include monetary economics, financial economics, and macroeconomics."
           imageUrl: "photo.jpg"
           imageWidth:  160
           imageHeight: 180
