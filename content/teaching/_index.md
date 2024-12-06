@@ -5,7 +5,7 @@ description: "My Teaching Experiences"
 
 ### Instructor at the University of Western Ontario
 - Intermediate Macroeconomic Theory and Policy I, Fall 2024 
-+ [Course Outline](/content/teaching/2024Fall-UWO-EC2152-Course-Outline.pdf)
+    - [Course Outline](/content/teaching/2024Fall-UWO-EC2152-Course-Outline.pdf)
 
 ---
 
