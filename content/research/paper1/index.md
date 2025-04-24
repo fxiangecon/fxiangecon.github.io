@@ -1,13 +1,10 @@
 ---
 title: "How Central Banks Should Use Their Balance Sheets to Control Flight-to-Safety" 
-date: 2024-04-25
-lastmod: 2024-12-05
+date: 2025-04-24
+lastmod: 2025-04-25
 author: ["Fengfan Xiang"]
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades. 
-I study how central bank balance sheet expansions determine the severity of these panics and their implications for economic welfare, highlighting the role of the shifts in asset demand. 
-While central bank balance sheet expansions mitigate panics, they may reduce welfare. 
-Expanding the reach of interest-bearing central bank liabilities to wholesale banks can mitigate panics while improving welfare." 
+summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare." 
 # cover:
 #     image: "key_features.png"
 #     alt: "Key Features of the Model"
@@ -29,7 +26,7 @@ Expanding the reach of interest-bearing central bank liabilities to wholesale ba
 
 ##### Abstract
 
-Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. The central bank manages its balance sheet actively. Asset returns react endogenously to the central bank’s actions, influencing the usefulness of assets in transactions and, therefore, depositors’ demand for safe assets and bank deposits. I show that a central bank balance sheet expansion mitigates wholesale banking panics, but doing so may reduce welfare because it lowers asset returns, limiting the usefulness of assets in transactions. However, the central bank can mitigate wholesale banking panics and improve welfare by expanding the reach of its interest-bearing liabilities to wholesale banks, as in the case of the Fed’s overnight reserves repurchase agreements.
+Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare.
 
 
 <!-- ---
