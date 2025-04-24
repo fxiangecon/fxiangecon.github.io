@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-baseURL: "https://fxiangecon.github.io/" 
-title: Fengfan Xiang
-paginate: 20
+baseURL: "https://fxiangecon.github.io/"
+title: "Fengfan Xiang"
+# paginate: 20
 =======
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Moritz-Maria von Igelfeld
