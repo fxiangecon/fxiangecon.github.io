@@ -63,13 +63,13 @@ params:
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: "/cv_xiang_apr2024.pdf"
+              url: "/cv_xiang_aug2025.pdf"
            
     socialIcons:
         - name: Email
           url: "mailto:fxiang8@uwo.ca"
         - name: CV
-          url: "/cv_xiang_apr2024.pdf"
+          url: "/cv_xiang_aug2025.pdf"
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: Location
