@@ -1,10 +1,10 @@
 ---
-title: "How Central Banks Should Use Their Balance Sheets to Control Flight-to-Safety" 
-date: 2025-04-24
-lastmod: 2025-05-27
+title: "Endogenous Repo Price Dispersion and Monetary Policy Transmission" 
+date: 2025-08-08
+lastmod: 2025-08-08
 author: ["Fengfan Xiang"]
 # description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare." 
+summary: "Repurchase agreements (repos) are collateralized contracts often fully secured by safe government securities. However, even identical contracts can trade at different rates, and the rates only partially reflect changes in the central bank’s deposit facility rate. Motivated by the fact that most repo participants trade bilaterally with dealers in the over-the-counter segment of repo markets, I develop a search-theoretic model that endogenously generates repo price dispersion and imperfect monetary policy pass-through. The deposit facility price can have ambiguous effects on the supply of central bank liabilities, and its pass-through to repo prices weakens as this price increases. Both the central bank’s borrowing and lending facilities eliminate this ambiguity, but using the borrowing one is at the cost of inflation. Consistent with the Friedman rule, pegging the lending and deposit rates at the zero-lower bound achieves the most efficient use of currency in exchange. Crucial for the results is not price dispersion itself, but the concentration of prices at the tails of the distribution." 
 # cover:
 #     image: "key_features.png"
 #     alt: "Key Features of the Model"
@@ -19,14 +19,20 @@ summary: "Wholesale banking panics have driven several flight-to-safety events i
 
 ##### Download
 
-+ [Paper](paper_flight-to-safety.pdf)
-+ [Slides](flight-to-safety_slides.pdf)
++ [Paper](repo-rates_paper.pdf)
+<!-- + [Slides](flight-to-safety_slides.pdf) -->
 
 ---
 
 ##### Abstract
 
-Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare.
+Repurchase agreements (repos) are collateralized contracts often fully secured by safe government securities. 
+However, even identical contracts can trade at different rates, and the rates only partially reflect changes in the central bank’s deposit facility rate. 
+Motivated by the fact that most repo participants trade bilaterally with dealers in the over-the-counter segment of repo markets, I develop a search-theoretic model that endogenously generates repo price dispersion and imperfect monetary policy pass-through. 
+The deposit facility price can have ambiguous effects on the supply of central bank liabilities, and its pass-through to repo prices weakens as this price increases. 
+Both the central bank’s borrowing and lending facilities eliminate this ambiguity, but using the borrowing one is at the cost of inflation. 
+Consistent with the Friedman rule, pegging the lending and deposit rates at the zero-lower bound achieves the most efficient use of currency in exchange. 
+Crucial for the results is not price dispersion itself, but the concentration of prices at the tails of the distribution.
 
 
 <!-- ---

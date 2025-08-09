@@ -1,21 +1,17 @@
 ---
-title: "Adverse Selection, Private Collateral Provision, and
-Government Intervention" 
-date: 2025-06-09
-lastmod: 2024-06-09
+title: "How Central Banks Should Use Their Balance Sheets to Control Flight-to-Safety" 
+date: 2025-04-24
+lastmod: 2025-05-27
 author: ["Fengfan Xiang"]
-# description: "Second Year Paper" 
-summary: "Private collateral provision matters for the transmission across markets. 
-Adverse selection hinders collateral provision in the loan market, resulting in inefficiency in the goods market as collateral is essential to secure credit transactions. 
-The optimal interest rate policy may shut down the loan market entirely. 
-A novel loan subsidy program is proposed to address banks' adverse selection problem." 
-cover:
-    # image: "paper2.png"
-    # alt: "Dimensions of a sausage dog"
-    # relative: false
+# description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
+summary: "Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare." 
+# cover:
+#     image: "key_features.png"
+#     alt: "Key Features of the Model"
+#     relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
-#     Text: "Journal of Canine Science"
+#     Text: "Journal of Oleic Science"
 
 ---
 
@@ -23,34 +19,31 @@ cover:
 
 ##### Download
 
-+ [Paper](asymmetric-information_paper.pdf)
-<!-- + [Slides](adverse_selection_slides.pdf) -->
++ [Paper](paper_flight-to-safety.pdf)
++ [Slides](flight-to-safety_slides.pdf)
 
 ---
 
 ##### Abstract
 
-I study the asymmetric information problem during financial crises and its implications for monetary policy. 
-Specifically, banks offer liquidity insurance services to households, backed by their asset holdings. 
-A low nominal interest rate policy not only promotes the issuance of bank loans but also reduces the opportunity cost of holding currency, improving banking services. 
-However, I show that the costs associated with asymmetric information, captured by screening costs, can outweigh the benefits of a prosperous financial market. 
-In such a scenario, the Friedman rule is not optimal, and the optimal nominal interest rate policy targets a high rate that shuts down the loan market. 
-Finally, I propose a loan subsidy program to address the asymmetric information problem, under which the Friedman rule becomes optimal.
+Wholesale banking panics have driven several flight-to-safety events in recent decades, raising concerns over financial stability. I study such events using a model with retail and wholesale banks, where the severity of wholesale banking panics is endogenously determined and captures the magnitude of flight-to-safety. I show that expanding the central bank’s balance sheet mitigates wholesale banking panics, but doing so may reduce welfare by lowering returns on assets, thereby limiting their usefulness in transactions. However, expanding the reach of interest-bearing central bank liabilities to wholesale banks, which can be achieved through the U.S. Federal Reserve’s overnight reverse repurchase agreement facility, can mitigate panics without reducing welfare.
+
 
 <!-- ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 1998. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
-@article{PV98,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {1998},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-``` -->
+@article{UV01,
+author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
+year = {2001},
+title ={Unusual Uses For Olive Oil},
+journal = {Journal of Oleic Science},
+volume = {34),
+number = {1},
+pages = {449--489},
+url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+```
+ -->
