@@ -1,8 +1,8 @@
 ---
 title: "Adverse Selection, Private Collateral Provision, and
 Government Intervention" 
-date: 2023-09-05
-lastmod: 2024-05-08
+date: 2025-06-09
+lastmod: 2024-06-09
 author: ["Fengfan Xiang"]
 # description: "Second Year Paper" 
 summary: "Private collateral provision matters for the transmission across markets. 

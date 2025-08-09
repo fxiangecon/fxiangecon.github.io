@@ -20,7 +20,7 @@ summary: "Wholesale banking panics have driven several flight-to-safety events i
 ##### Download
 
 + [Paper](paper_flight-to-safety.pdf)
-+ [Slides](slides_flight-to-safety.pdf)
++ [Slides](flight-to-safety_slides.pdf)
 
 ---
 
