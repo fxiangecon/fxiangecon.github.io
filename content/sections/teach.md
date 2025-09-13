@@ -1,12 +1,11 @@
-#### Instructor at the University of Western Ontario
+### Instructor at the University of Western Ontario
 - Intermediate Macroeconomic Theory and Policy I, Fall 2024 
     <!-- - [Course Outline](2024-Course_Outline.pdf) &ensp; [Course Evaluation **6.41/7**](2024-Course_Evaluation.pdf) -->
 
----
 
-#### Teaching Assistant at the University of Western Ontario
+### Teaching Assistant at the University of Western Ontario
 
-##### **PhD Level**
+#### **PhD Level**
 - Review Course for Economist (PhD Summer Camp), 2021, 2022, 2023, 2024
 - Microeconomics I & Microeconomics II, 2021-2022
     - voted for the ***Graduate Teaching Assistant of the Year***
@@ -15,9 +14,9 @@
 - Economic Mathematics, 2023
     - voted for the ***Graduate Teaching Assistant of the Year***
 
-##### **Master Level**
+#### **Master Level**
 - Macroeconomics Theory for Finance, Winter 2024
 
-##### **Undergraduate Level**
+#### **Undergraduate Level**
 - Advanced Macroeconomics I, Fall 2024
 - Principles of Macroeconomics, Winter 2025
