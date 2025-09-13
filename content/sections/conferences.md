@@ -1,8 +1,3 @@
-**2026**: IAEE@ASSA (Philadelphia, PA) [Scheduled]
+**2025**: Canadian Economic Association Annual Conference (presenter and session chair); Annual Workshop of Southern Ontario Macro Economists (discussant); Summer Workshop on Money, Banking, Payments, and Finance (presenter)
 
-**2025**: AERE@SEA (Tampa, FL) [Scheduled], Atlanta Economics PhD Student Symposium (Atlanta, GA), AERE Summer Conference (Albuquerque, NM), Georgia Tech CRIDC (Atlanta, GA), Empirical Methods in Energy Economics Workshop (Washington, DC)
-
-**2024**: Southeastern Workshop on Energy & Environmental Economics & Policy (Atlanta, GA), CU Environmental and Resource Economics Workshop (Vail, CO), Georgia Tech EPICenter (Atlanta, GA)
-
-**2022**: South East Asia Energy Transition Partnership - Roundtables Executive Training, Australian National University (Virtual)
-
+**2024**: Rice-LEMMA Monetary Conference (presenter)
