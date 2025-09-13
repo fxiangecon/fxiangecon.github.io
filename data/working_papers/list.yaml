@@ -17,9 +17,9 @@ works:
   abstract: >
     I study how central banks should use their balance sheets to control flight-to-safety in a model with retail and wholesale banks, where the magnitude of flight-to-safety is endogenously determined by the severity of wholesale banking panics. I show that expanding the central bank's balance sheet, by purchasing government bonds through issuance of reserves, mitigates wholesale banking panics. However, this policy lowers asset returns, limiting the usefulness of assets in transactions, which harms depositors. Instead, swapping reserves for other central bank liabilities accessible to wholesale banks, for instance, through the U.S. Federal Reserve's overnight reverse repurchase agreement facility, mitigates panics without reducing asset returns or transactions. Critical for these results are endogenous shifts in asset demand. When central banks reduce the supply of safe government bonds to private markets, as in balance sheet expansions, there are large increases in the demand for private banks' liabilities which bid down their returns. Adjusting the composition of central bank liabilities avoids such large demand shifts.
   links:
-    - url: "https://github.com/fxiangecon/fxiangecon.github.io/blob/main/static/research/flight-to-safety_paper.pdf"
+    - url: "https://fxiangecon.github.io/research/flight-to-safety_paper.pdf"
       text: "[Paper]" 
-      url: "https://github.com/fxiangecon/fxiangecon.github.io/blob/main/static/research/flight-to-safety_slides.pdf"
+    - url: "https://fxiangecon.github.io/research/flight-to-safety_slides.pdf"
       text: "[Slides]"
 
 
@@ -31,5 +31,5 @@ works:
     I study the asymmetric information problem during financial crises and its implications for monetary policy. Specifically, banks offer liquidity insurance services to households, backed by their asset holdings.
     A low nominal interest rate policy not only promotes the issuance of bank loans but also reduces the opportunity cost of holding currency, improving banking services. However, I show that the costs associated with asymmetric information, captured by screening costs, can outweigh the benefits of a prosperous financial market. In such a scenario, the Friedman rule is not optimal, and the optimal nominal interest rate policy targets a high rate that shuts down the loan market. Finally, I propose a loan subsidy program to address the asymmetric information problem, under which the Friedman rule becomes optimal.
   links:
-    - url: "https://github.com/fxiangecon/fxiangecon.github.io/blob/main/static/research/asymmetric-information_paper.pdf"
+    - url: "https://fxiangecon.github.io/research/asymmetric-information_paper.pdf"
       text: "[Paper]"
