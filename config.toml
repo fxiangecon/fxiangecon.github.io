@@ -1,12 +1,12 @@
 relativeURLs = true
-title = "Maghfira (Afi) Ramadhani"
+title = "Fengfan Xiang"
 theme = "academimal-theme"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD Student in Economics, Georgia Institute of Technology"
+    shortbio = "PhD Student in Economics, University of Western Ontario"
     logo = "Afi_headshot.jpg" 
 
 [services]
