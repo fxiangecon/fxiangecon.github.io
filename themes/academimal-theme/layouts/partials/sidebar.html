@@ -5,7 +5,8 @@
 {{ with .GetPage "/sections/office-hours.md" }}
 <p class="contactinfo"><a href="{{ "#officehours" | relURL }}">Office Hours</a></p>
 {{ end }}
-{{ with .Site.Data.publications }}
+<!-- {{ with .Site.Data.publications }} --> 
+{{ with .Site.Data.workingpapers }}
 <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Research</a></p>
 {{ end }}
 {{ with .GetPage "/sections/teach.md" }}
