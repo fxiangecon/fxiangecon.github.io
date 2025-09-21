@@ -16,11 +16,9 @@ works:
   book: "Submitted"
   abstract: >
     I study how central banks should use their balance sheets to control flight-to-safety in a model with retail and wholesale banks, where the magnitude of flight-to-safety is endogenously determined by the severity of wholesale banking panics. I show that expanding the central bank's balance sheet, by purchasing government bonds through issuance of reserves, mitigates wholesale banking panics. However, this policy lowers asset returns, limiting the usefulness of assets in transactions, which harms depositors. Instead, swapping reserves for other central bank liabilities accessible to wholesale banks, for instance, through the U.S. Federal Reserve's overnight reverse repurchase agreement facility, mitigates panics without reducing asset returns or transactions. Critical for these results are endogenous shifts in asset demand. When central banks reduce the supply of safe government bonds to private markets, as in balance sheet expansions, there are large increases in the demand for private banks' liabilities which bid down their returns. Adjusting the composition of central bank liabilities avoids such large demand shifts.
-  links:
-    - url: "https://fxiangecon.github.io/research/flight-to-safety_paper.pdf"
-      text: "[Paper]" 
-    - url: "https://fxiangecon.github.io/research/flight-to-safety_slides.pdf"
-      text: "[Slides]"
+  links: [
+    {url: "https://fxiangecon.github.io/research/flight-to-safety_paper.pdf",text: "[Paper]" }, {url: "https://fxiangecon.github.io/research/flight-to-safety_slides.pdf", text: "[Slides]"}]
+     
 
 
 - title: "Costly Liquidity Provision under Asymmetric Information"
