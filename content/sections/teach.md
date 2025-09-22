@@ -1,6 +1,7 @@
 ### Instructor at the University of Western Ontario
 - Intermediate Macroeconomic Theory and Policy I, Fall 2024 
-    <!-- - [Course Outline](2024-Course_Outline.pdf) &ensp; [Course Evaluation **6.41/7**](2024-Course_Evaluation.pdf) -->
+    - [Course Outline](https://fxiangecon.github.io/teaching/2024-Course_Outline.pdf) &ensp; [Course Evaluation **6.41/7**](https://fxiangecon.github.io/teaching/2024-Course_Evaluation.pdf)
+
 
 ### Teaching Assistant at the University of Western Ontario
 
