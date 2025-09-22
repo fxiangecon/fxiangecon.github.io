@@ -4,11 +4,12 @@ works:
   # coauthors: ""
   # book: "Scheduled for presentation at IAEE@ASSA 2026, AERE@SEA 2025. Presented at AERE Summer Conference 2025, AERE@MEA 2025, CRIDC@Georgia Tech 2025, EMEE 2025, CU Environmental and Resource Economics Workshop 2024​, SWEEEP@Georgia Tech 2024"
   note: "Job Market Paper"
-  # links:
-  #   - url: "https://maghfiraer.github.io/pdf/flexalert_CRIDC_poster.pdf"
-  #     text: "Poster (Presented and Received Award at CRIDC@Georgia Tech 2025)"
-  # abstract: >
-  #   The integration of renewable generation such as solar and wind is crucial to achieving decarbonization objectives. This paper provides a survey of engineering, economics, and policy challenges associated with this integration, focusing primarily on the dual problems of zero-marginal-cost generation and intermittency. From the engineering perspective, we describe challenges in the operation and planning stages of electric power systems faced with increasing renewable penetration. We review the economic challenges for restructured electricity markets and highlight important implications for energy policies designed to promote growth and spur innovation in the renewable energy sector. We argue that the engineering, economic, and policy aspects of managing zero-marginal-cost, intermittent renewable energy cannot be decoupled—these challenges are inexorably linked. Hence, we describe how these three fields must work together to understand the key interactions that will make the transition to a low-carbon energy landscape a success.
+  abstract: >
+    Repurchase agreements (repos) are collateralized contracts often secured by government securities. However, even identical repo contracts can trade at different rates, and these rates only partially reflect changes in the central bank's deposit facility rate. Motivated by the fact that most repo participants trade bilaterally with dealers in the over-the-counter segment of repo markets, I develop a search-theoretic model that endogenously generates repo price distributions. A key insight is that it is not dispersion itself but the concentration of prices at the tails of the distribution that matters for central bank interventions. An increase in the deposit facility price has imperfect pass-through to repo prices, with pass-through weakening as the price rises and creating ambiguous effects on the composition of central bank liabilities. Both the central bank's borrowing and lending facilities resolve this ambiguity, but using the borrowing facility comes at the cost of raising inflation. In line with the Friedman rule, pegging the lending and deposit facility rates at the zero-lower bound achieves the most efficient use of money in exchange.
+  links:
+    - url: "https://fxiangecon.github.io/research/repo-rates_paper.pdf"
+      text: "[Paper]"
+  
 
 
 - title: "How Central Banks Should Use Their Balance Sheets to Control Flight-to-Safety"
