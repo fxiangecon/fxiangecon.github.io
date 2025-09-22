@@ -1,7 +1,7 @@
 Welcome to my website! I am a Ph.D. candidate at the University of Western Ontario, [Department of Economics](https://economics.uwo.ca/). 
 I am on the job market in the 2025–2026 academic year.
 
-My research interests includes: financial economics, monetary economics, and macroeconomics 
+My research interests include: financial economics, monetary economics, and macroeconomics 
 
 
 __[CV](/pdf/cv_xiang_sep2025.pdf)__ (Updated September 2025)

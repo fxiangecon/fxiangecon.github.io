@@ -14,7 +14,8 @@
 - Economic Mathematics, 2023
     - voted for the ***Graduate Teaching Assistant of the Year***
 #### **Master Level**
-- Macroeconomics Theory for Finance, Winter 2024
+- Macroeconomic Theory for Finance, Winter 2024
 #### **Undergraduate Level**
 - Advanced Macroeconomics I, Fall 2024
 - Principles of Macroeconomics, Winter 2025
+- Principles of Microeconomics, Fall 2025
