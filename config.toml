@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Ph.D. candidate in Economics <br> University of Western Ontario"
+    shortbio = ["Ph.D. candidate in Economics", "University of Western Ontario"]
     logo = "fengfan_headshot.jpg" 
 
 [services]
