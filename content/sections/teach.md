@@ -8,11 +8,11 @@
 #### **PhD Level**
 - Review Course for Economist (PhD Summer Camp), 2021, 2022, 2023, 2024
 - Microeconomics I & Microeconomics II, 2021-2022
-    - voted for the ***Graduate Teaching Assistant of the Year***
+    - Awarded the ***Graduate Teaching Assistant of the Year***
 - Macroeconomics I & Macroeconomics II, 2022-2023
-    - voted for the ***Graduate Teaching Assistant of the Year***
+    - Awarded the ***Graduate Teaching Assistant of the Year***
 - Economic Mathematics, 2023
-    - voted for the ***Graduate Teaching Assistant of the Year***
+    - Awarded the ***Graduate Teaching Assistant of the Year***
 #### **Master Level**
 - Macroeconomic Theory for Finance, Winter 2024
 #### **Undergraduate Level**
