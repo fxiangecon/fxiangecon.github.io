@@ -6,14 +6,14 @@
 ### Teaching Assistant at the University of Western Ontario
 
 #### **PhD Level**
-- Review Course for Economist (PhD Summer Camp), 2021, 2022, 2023, 2024
+- Review Course for incoming first-year PhD students, 2021, 2022, 2023, 2024
 - Microeconomics I & Microeconomics II, 2021-2022
     - Awarded the ***Graduate Teaching Assistant of the Year***
 - Macroeconomics I & Macroeconomics II, 2022-2023
     - Awarded the ***Graduate Teaching Assistant of the Year***
 - Economic Mathematics, 2023
     - Awarded the ***Graduate Teaching Assistant of the Year***
-#### **Master Level**
+#### **Masters Level**
 - Macroeconomic Theory for Finance, Winter 2024
 #### **Undergraduate Level**
 - Advanced Macroeconomics I, Fall 2024
