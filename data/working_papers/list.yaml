@@ -6,7 +6,13 @@ works:
   # book: "Scheduled for presentation at IAEE@ASSA 2026, AERE@SEA 2025. Presented at AERE Summer Conference 2025, AERE@MEA 2025, CRIDC@Georgia Tech 2025, EMEE 2025, CU Environmental and Resource Economics Workshop 2024​, SWEEEP@Georgia Tech 2024"
   note: "Job Market Paper"
   abstract: >
-    Repurchase agreements (repos) are collateralized contracts often secured by government securities. However, even identical repo contracts can trade at different rates, and these rates only partially reflect changes in the central bank's deposit facility rate. Motivated by the fact that most repo participants trade bilaterally with dealers in the over-the-counter segment of repo markets, I develop a search-theoretic model that endogenously generates repo price distributions. A key insight is that it is not dispersion itself but the concentration of prices at the tails of the distribution that matters for central bank interventions. An increase in the deposit facility price has imperfect pass-through to repo prices, with pass-through weakening as the price rises and creating ambiguous effects on the composition of central bank liabilities. Both the central bank's borrowing and lending facilities resolve this ambiguity, but using the borrowing facility comes at the cost of raising inflation. In line with the Friedman rule, pegging the lending and deposit facility rates at the zero-lower bound achieves the most efficient use of money in exchange.
+    While financial arbitrage implies that repurchase agreements (repos) with the same collateral and maturity should trade at the same price, repo prices exhibit substantial dispersion.
+    Moreover, repo prices respond only partially to changes in the central bank's deposit facility rate, raising concerns about monetary policy transmission.
+    I develop a model in which search frictions in over-the-counter repo markets generate endogenous repo price dispersion and study the implications of this dispersion for monetary policy.
+    The key insight is that what matters for policy is not the overall distribution of prices but their concentration in the tails --- monetary policy affects only one tail of repo prices, with the other being insensitive to policy.
+    In this way, changes in the central bank's deposit facility rate exhibit imperfect pass-through, with the pass-through weakening as repo prices shift toward their insensitive tail.
+    The central bank's lending and borrowing facilities mitigate imperfections in monetary policy transmission, but using the borrowing facility raises inflation.
+    Consistent with the Friedman rule, pegging lending and deposit facility rates at the zero lower bound achieves efficiency.
   
 
 
@@ -14,7 +20,14 @@ works:
   pdflink: "https://fxiangecon.github.io/research/flight-to-safety_paper.pdf"
   book: "Submitted"
   abstract: >
-    I study how central banks should use their balance sheets to control flight-to-safety in a model with retail and wholesale banks, where the magnitude of flight-to-safety is endogenously determined by the severity of wholesale banking panics. I show that expanding the central bank's balance sheet, by purchasing government bonds through issuance of reserves, mitigates wholesale banking panics. However, this policy lowers asset returns, limiting the usefulness of assets in transactions, which harms depositors. Instead, swapping reserves for other central bank liabilities accessible to wholesale banks, for instance, through the U.S. Federal Reserve's overnight reverse repurchase agreement facility, mitigates panics without reducing asset returns or transactions. Critical for these results are endogenous shifts in asset demand. When central banks reduce the supply of safe government bonds to private markets, as in balance sheet expansions, there are large increases in the demand for private banks' liabilities which bid down their returns. Adjusting the composition of central bank liabilities avoids such large demand shifts.
+    I study how central banks should use their balance sheets to control flight-to-safety in a model with retail and wholesale banks, where the magnitude of flight-to-safety is endogenously determined by the severity of wholesale banking panics.
+    Expanding the central bank's balance sheet, through swaps of reserves for government bonds, mitigates wholesale banking panics.
+    However, this policy lowers asset returns, limiting the usefulness of assets in transactions, which harms depositors.
+    Instead, swapping reserves for other central bank liabilities accessible to wholesale banks mitigates panics without reducing asset returns or transactions.
+    For example, the U.S. Federal Reserve's overnight reverse repurchase agreements serve this purpose. 
+    Critical for these results are endogenous shifts in asset demand.
+    When central banks reduce the supply of safe government bonds to private markets, as in balance sheet expansions, there are large increases in the demand for private banks' liabilities which bid down their returns. 
+    Adjusting the composition of central bank liabilities avoids such large demand shifts.
   links:
     - url: "https://fxiangecon.github.io/research/flight-to-safety_slides.pdf" 
       text: "[Slides]"
@@ -27,5 +40,13 @@ works:
   # note: "Email for draft"
   # book: "Submitted"
   abstract: >
-    I study the asymmetric information problem during financial crises and its implications for monetary policy. Specifically, banks offer liquidity insurance services to households, backed by their asset holdings.
-    A low nominal interest rate policy not only promotes the issuance of bank loans but also reduces the opportunity cost of holding currency, improving banking services. However, I show that the costs associated with asymmetric information, captured by screening costs, can outweigh the benefits of a prosperous financial market. In such a scenario, the Friedman rule is not optimal, and the optimal nominal interest rate policy targets a high rate that shuts down the loan market. Finally, I propose a loan subsidy program to address the asymmetric information problem, under which the Friedman rule becomes optimal.
+    I study asymmetric information in bank lending and its implications for monetary policy.
+    Banks lend against collateral but incur screening costs because households possess private information about collateral values.
+    While loans entail screening costs, they are useful assets to back banks' liquidity insurance services, especially when safe assets, such as government bonds, are scarce.   
+    Raising the nominal interest rate on bonds discourages lending and increases banks' opportunity cost of holding currency, thereby reducing banking services.
+    Nevertheless, reduced lending saves on banks' screening costs.
+    I show how these savings can outweigh the losses from reduced banking services, at least locally, when the nominal interest rate rises to the point that shuts down the loan market and eliminates the need for screening. 
+    Moreover, such a high nominal interest rate can be globally optimal in situations where screening is particularly costly.
+    In other words, the Friedman rule, which suggests a zero nominal interest rate, is not necessarily optimal. 
+    Finally, I propose a loan subsidy program that eliminates screening costs, 
+    under which the Friedman rule is optimal.
