@@ -6,13 +6,16 @@ works:
   # book: "Scheduled for presentation at IAEE@ASSA 2026, AERE@SEA 2025. Presented at AERE Summer Conference 2025, AERE@MEA 2025, CRIDC@Georgia Tech 2025, EMEE 2025, CU Environmental and Resource Economics Workshop 2024​, SWEEEP@Georgia Tech 2024"
   note: "Job Market Paper"
   abstract: >
-    While financial arbitrage implies that repurchase agreements (repos) with the same collateral and maturity should trade at the same price, repo prices exhibit substantial dispersion.
-    Moreover, repo prices respond only partially to changes in the central bank's deposit facility rate, raising concerns about monetary policy transmission.
-    I develop a model in which search frictions in over-the-counter repo markets generate endogenous repo price dispersion and study the implications of this dispersion for monetary policy.
-    The key insight is that what matters for policy is not the overall distribution of prices but their concentration in the tails --- monetary policy affects only one tail of repo prices, with the other being insensitive to policy.
-    In this way, changes in the central bank's deposit facility rate exhibit imperfect pass-through, with the pass-through weakening as repo prices shift toward their insensitive tail.
-    The central bank's lending and borrowing facilities mitigate imperfections in monetary policy transmission, but using the borrowing facility raises inflation.
-    Consistent with the Friedman rule, pegging lending and deposit facility rates at the zero lower bound achieves efficiency.
+    Repurchase agreements (repos) with the same collateral and maturity exhibit substantial price dispersion, indicating limits to financial arbitrage.
+    Moreover, central bank policy rates only partially pass through to repo rates, despite determining the funding costs for repo dealers. 
+    I show that search frictions in over-the-counter repo markets generate endogenous repo price dispersion and imperfect monetary policy pass-through.
+    I embed these frictions in a general equilibrium framework to evaluate monetary policy.
+    The key insight is that policy transmission depends less on the overall distribution of repo prices, but more on the concentration in the tails.
+    Standard monetary policy, which relies on the central bank's deposit facility, affects only one tail through dealers' funding costs, while the other is determined by repo customers' liquidity demand.
+    This leads to imperfect pass-through from policy rates to repo prices, with pass-through weakening as repo prices concentrate in the insensitive tail.
+    The central bank's lending and borrowing facilities cannot improve pass-through, despite affecting repo customers' liquidity demand. 
+    Moreover, introducing the borrowing facility raises inflation.
+    Consistent with the Friedman rule, pegging deposit and lending facility rates to the zero lower bound achieves efficiency. 
   
 
 
@@ -48,5 +51,4 @@ works:
     I show how these savings can outweigh the losses from reduced banking services, at least locally, when the nominal interest rate rises to the point that shuts down the loan market and eliminates the need for screening. 
     Moreover, such a high nominal interest rate can be globally optimal in situations where screening is particularly costly.
     In other words, the Friedman rule, which suggests a zero nominal interest rate, is not necessarily optimal. 
-    Finally, I propose a loan subsidy program that eliminates screening costs, 
-    under which the Friedman rule is optimal.
+    Finally, I propose a loan subsidy program that eliminates screening costs, under which the Friedman rule is optimal.
