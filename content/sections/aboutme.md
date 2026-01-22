@@ -6,7 +6,7 @@ My primary research interests are macroeconomics, monetary economics, and financ
 
 __Email__: [fxiang8@uwo.ca](mailto:fxiang8@uwo.ca)
 
-__[CV](/pdf/cv_xiang_oct2025.pdf)__ 
+__[CV](/pdf/cv_xiang_jan2026.pdf)__ 
 <!-- &emsp; __[GitHub](https://github.com/fxiangecon)__  -->
 
 <!-- __[Google Scholar](https://scholar.google.com/citations?user=bpN8RCUAAAAJ)__\ -->
