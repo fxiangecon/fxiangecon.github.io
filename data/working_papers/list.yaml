@@ -21,7 +21,8 @@ works:
 
 - title: "How Central Banks Should Use Their Balance Sheets to Control Flight-to-Safety"
   pdflink: "https://fxiangecon.github.io/research/flight-to-safety_paper.pdf"
-  book: "Submitted"
+  note: "Revision Requested by International Economic Review"
+  # book: "Submitted"
   abstract: >
     I study how central banks should use their balance sheets to control flight-to-safety in a model with retail and wholesale banks, where the magnitude of flight-to-safety is endogenously determined by the severity of wholesale banking panics.
     Expanding the central bank's balance sheet, through swaps of reserves for government bonds, mitigates wholesale banking panics.
